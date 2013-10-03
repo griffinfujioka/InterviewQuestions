@@ -10,6 +10,8 @@ int matrix[4][4] = {
 };
 
 void PrintMatrix(int n);
+void PrintMatrix(int matrix[][4]);
+void RotateMatrix(int matrix[][4]);
 
 int main()
 {
@@ -17,7 +19,7 @@ int main()
 
 	PrintMatrix(4);
 
-	//PrintMatrix(matrix);
+	PrintMatrix(matrix);
 
 	cout << "Press Enter to exit..." << endl; 
 	getc(stdin);
@@ -43,17 +45,22 @@ void PrintMatrix(int n)
 	cout << endl; 
 }
 
-void PrintMatrix(int matrix[4][4])
+void PrintMatrix(int matrix[][4])
 {
 	int i=0, j=0; 
 
-	for(i=0; matrix[i][j] != NULL; i++)
+	for(i=0; i < 4; i++)
 	{
-		for(j=0; matrix[i][j] != NULL; j++)
+		for(j=0; j < 4; j++)
 		{
 			cout << matrix[i][j] << " "; 
 		}
 
 		cout << endl; 
 	}
+}
+
+void RotateMatrix(int matrix[][4])
+{
+
 }
