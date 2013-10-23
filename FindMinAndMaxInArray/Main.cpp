@@ -1,5 +1,4 @@
 #include <iostream>
-#include <array>
 using namespace std; 
 
 void FindMaxAndMin(int arr[]);
@@ -30,3 +29,4 @@ void FindMaxAndMin(int arr[])
 	cout << "Max: " << max << endl; 
 	cout << "Min: " << min << endl; 
 }
+
