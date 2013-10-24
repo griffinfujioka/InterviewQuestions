@@ -61,5 +61,8 @@ int main()
 		i++;
 	}
 
+	cout << "\nPress any key to exit..." << endl; 
+	char ch = getchar(); 
+
 	return 0; 
 }
