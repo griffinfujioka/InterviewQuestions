@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenerateAllPermutationsOfAn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FillArrayWithGivenDistribution", "..\FillArrayWithGivenDistribution\FillArrayWithGivenDistribution.vcxproj", "{491FC0EA-1A64-4B05-A11B-FBE2E3416A63}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseString", "..\ReverseString\ReverseString.vcxproj", "{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +121,16 @@ Global
 		{491FC0EA-1A64-4B05-A11B-FBE2E3416A63}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{491FC0EA-1A64-4B05-A11B-FBE2E3416A63}.Release|Win32.ActiveCfg = Release|Win32
 		{491FC0EA-1A64-4B05-A11B-FBE2E3416A63}.Release|Win32.Build.0 = Release|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Debug|Win32.Build.0 = Debug|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Release|Any CPU.ActiveCfg = Release|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Release|Win32.ActiveCfg = Release|Win32
+		{ECD8D0BA-C396-43FB-A801-FD0F27B3513A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
