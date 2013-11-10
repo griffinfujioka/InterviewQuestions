@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StudentFinalScore", "..\Stu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntersectionOfTwoArrays", "..\IntersectionOfTwoArrays\IntersectionOfTwoArrays.vcxproj", "{C823E921-D381-44A2-ACDA-F3BB15AFF6CB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawACircle", "..\DrawACircle\DrawACircle.vcxproj", "{6D00DABD-CFF6-45FB-A852-31098D8732AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,16 @@ Global
 		{C823E921-D381-44A2-ACDA-F3BB15AFF6CB}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{C823E921-D381-44A2-ACDA-F3BB15AFF6CB}.Release|Win32.ActiveCfg = Release|Win32
 		{C823E921-D381-44A2-ACDA-F3BB15AFF6CB}.Release|Win32.Build.0 = Release|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Debug|Win32.Build.0 = Debug|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Release|Win32.ActiveCfg = Release|Win32
+		{6D00DABD-CFF6-45FB-A852-31098D8732AF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
